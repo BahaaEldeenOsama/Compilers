@@ -27,8 +27,8 @@
 #### * Modify the file CompilersTask_3_CodeGenerator.cpp to include 3 data types, int real bool
 #### * real should correspond to "double" in C++.
 
-#### 1) All variables MUST be declared at the beginning of the program (example: int x;real y).        Done
-#### 2) It is possible to use boolean variable inside the if and repeat condition.                     Done
+#### 1) All variables MUST be declared at the beginning of the program (example: int x;real y).        
+#### 2) It is possible to use boolean variable inside the if and repeat condition.                      
 #### 3) It is not allowed to do arithmetic operations on boolean variables.
 
 #### 4) It is allowed to do arithmetic operations on int, real variables such that, in the same expression, all variables are of the same type.
@@ -37,8 +37,8 @@
 
   
 #### * If there is a case not mentioned above, just do whatever you believe it is meaningful.
-#### * Write an input tiny program and include it inside a comment, which contains several test cases (at least 20 statements involving variables) that explain its usage and   proves correctness of using variables.
-#### * Half the mark is dedicatd to comments explaining the code before each code line (for only the part of the code which you added), test cases (at least 20 statements involving operators) that cover a lot of cases, and following the CodingStyle.pdf file.
+#### * Write an input tiny program and include it inside a comment, which contains several test cases (at least 20 statements involving variables) that explain its usage and              proves correctness of using variables.
+#### * Half the mark is dedicatd to comments explaining the code before each code line (for only the part of the code which you added), test cases (at least 20 statements                nvolving operators) that cover a lot of cases, and following the CodingStyle.pdf file.
 
 
   
